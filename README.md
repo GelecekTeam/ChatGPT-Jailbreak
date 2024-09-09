@@ -32,9 +32,10 @@ If you encounter any refusal from ChatGPT, simply type "Chloe" or delete the cha
 
 ## Star History
 
-<a href="https://star-history.com/#0xk1h0/ChatGPT_DAN&Date">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=0xk1h0/ChatGPT_DAN&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=0xk1h0/ChatGPT_DAN&type=Date" />
-  </picture>
+<a href="https://star-history.com/#GelecekTeam/ChatGPT-Latest-Jailbreak&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=GelecekTeam/ChatGPT-Latest-Jailbreak&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=GelecekTeam/ChatGPT-Latest-Jailbreak&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=GelecekTeam/ChatGPT-Latest-Jailbreak&type=Date" />
+ </picture>
 </a>
