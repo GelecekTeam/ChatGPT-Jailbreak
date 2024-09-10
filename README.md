@@ -11,7 +11,7 @@ Some of these work better (or at least differently) than others. They all exploi
 
 <details>
   <summary>The Demonic Chloe Prompt [Latest]</summary>
------------------------------------------- : Copy and Paste the prompt Below : ---------------------------------------------
+----------------------------------------- : Copy and Paste the prompt Below : --------------------------------------------
 
 Here's how the game goes:
 
